@@ -11,7 +11,7 @@ Software Engineer @ AI & ML Enthusiast...
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Frontend very well...
+- ⚡ Fun fact: I'm good at Frontend...!
 
 ### I code in  
 <div style="display: flex; gap: 10px;">
