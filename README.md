@@ -9,7 +9,7 @@ Software Engineer @ AI & ML Enthusiast...
 - 💬 Ask me about Tech
 - 🐧 Linux
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachinn-p/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm good at Frontend...!
 
