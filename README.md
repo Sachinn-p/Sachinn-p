@@ -23,6 +23,7 @@ Software Engineer @ AI & ML Enthusiast...
     <img height="50" width="50" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI Icon"/>
     <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React Icon"/>
     <img height="50" weight="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask Icon"/>
@@ -34,6 +35,5 @@ Software Engineer @ AI & ML Enthusiast...
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
     <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman Icon"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
