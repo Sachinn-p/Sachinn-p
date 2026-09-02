@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sachinn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=Software+Engineer;Backend+Developer;DevOps+Engineer;Linux+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=Software+Engineer;Backend+Developer;DevOps+Engineer;Linux+Lover" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -84,25 +84,9 @@ me = SachinnP()
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes">
-  <img height="50" width="50" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI">
-  <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React">
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/sql.png" alt="SQL">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub Actions">
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,flask,nodejs,mysql,postgres,mongodb,c,docker,kubernetes,aws,terraform&perline=18" alt="Languages and Tools">
+  </a>
 </p>
 
 ---
@@ -110,16 +94,9 @@ me = SachinnP()
 ## 💻 IDEs & Tools
 
 <p align="center">
-
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm">
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git">
-  <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-postman-development-environment-logo-color-tal-revivo.png" alt="Postman">
-
-  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-
-  <img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,netlify,vercel,bash,vim&perline=8" alt="IDEs and Tools">
+  </a>
 </p>
 
 ---
@@ -127,7 +104,6 @@ me = SachinnP()
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <a href="https://github.com/sachinn-p">
     <img
       height="180"
@@ -143,7 +119,6 @@ me = SachinnP()
       alt="Top Languages"
     >
   </a>
-
 </p>
 
 ---
@@ -151,13 +126,10 @@ me = SachinnP()
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn-p&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-
->
-
+  <img
+    src="https://streak-stats.demolab.com?user=sachinn-p&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  >
 </p>
 
 ---
@@ -165,7 +137,6 @@ alt="GitHub Streak"
 ## 📈 Activity Graph
 
 <p align="center">
-
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn-p&theme=tokyo-night&hide_border=true"
@@ -173,22 +144,6 @@ alt="GitHub Streak"
       width="100%"
     >
   </a>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=sachinn-p&theme=algolia&no-frame=true&no-bg=true&column=7"
-alt="GitHub Trophies"
-width="100%"
-
->
-
 </p>
 
 ---
@@ -196,25 +151,12 @@ width="100%"
 ## 🐧 Linux Enthusiast
 
 <p align="center">
-
-<img
-src="https://img.shields.io/badge/OS-Linux-264F78?style=for-the-badge&logo=linux&logoColor=white"
-alt="Linux"
-
->
-
-<img
-src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"
-alt="Bash"
-
->
-
-<img
-src="https://img.shields.io/badge/Editor-Vim-019833?style=for-the-badge&logo=vim&logoColor=white"
-alt="Vim"
-
->
-
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=linux,bash,vim&perline=3"
+      alt="Linux, Bash and Vim"
+    >
+  </a>
 </p>
 
 ---
@@ -222,7 +164,6 @@ alt="Vim"
 ## 📫 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/sachinn-p/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -236,7 +177,6 @@ alt="Vim"
       alt="GitHub"
     >
   </a>
-
 </p>
 
 ---
@@ -244,14 +184,11 @@ alt="Vim"
 ## 💡 Dev Quote
 
 <p align="center">
-
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity+is+the+soul+of+efficiency.&author=Austin+Freeman"
-alt="Dev Quote"
-width="60%"
-
->
-
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity+is+the+soul+of+efficiency.&author=Austin+Freeman"
+    alt="Dev Quote"
+    width="60%"
+  >
 </p>
 
 ---
